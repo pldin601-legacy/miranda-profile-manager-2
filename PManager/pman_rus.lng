@@ -1,0 +1,105 @@
+# RUSSIAN
+
+[&Profile:]
+&Профиль:
+
+[&Open]
+&Открыть
+
+[&Delete]
+У&далить
+
+[Don`t &show profile manager]
+Не показывать выбор при &запуске
+
+[Automatically start with &Windows]
+Запускать &вместе с Windows
+
+[Profile not exists!]
+Профиль не существует!
+
+[Profile could not be deleted!]
+Невозможно удалить профиль!
+
+[Are you sure want to delete selected profile?]
+Вы уверены что хотите безвозвратно удалить выбранный профиль?
+
+[Profile not exists. Want to create new?]
+Профиль не существует. Создать новый?
+
+[Profile Manager]
+Менеджер Профилей
+
+[About profile manager]
+О менеджере профилей...
+
+[About programm]
+О программе
+
+[Version]
+Версия
+
+[build]
+сборка
+
+[Write e-mail]
+Написать письмо
+
+[Visit website]
+Навестить сайт
+
+[Miranda IM is not installed or installed not correctly.\\nReinstall please.]
+Miranda IM не установлена или установлена некорректно.\\nПожалуйста, выполните переустановку.
+
+// NEW VERSION
+
+[Can`t create new profile. Pattern file not found.]
+Невозможно создать новый профиль.\\nФайл с шаблоном профиля не знайден.
+
+[Description]
+Описание
+
+[Available]
+Доступные стили
+
+[Create]
+Создать
+
+[Cancel]
+Отмена
+
+[Create profile]
+Создание профиля
+
+[Select what kind of profile you want to create]
+Выберите стиль для профиля, который хотите создать
+
+[Create new profile]
+Создание нового профиля
+
+[New...]
+Новый...
+
+[Type name for the new profile]
+Введите имя для нового профиля
+
+[Profile name:]
+Имя профиля:
+
+[Next >>]
+Далее >>
+
+[Options]
+Опции
+
+[Preview]
+Предпросмотр
+
+[Can`t create new profile with options while Miranda is running.\\nClose Miranda and try again.]
+Невозможно создать новый профиль с опциями пока Миранда запущена.\\nЗакройте Миранду и попробуйте снова.
+
+[Can`t create profile with this name! Profile already exists!]
+Немогу создать профиль с таким именем! Такой профиль уже существует!
+
+[Complete]
+Завершить

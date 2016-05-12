@@ -1,0 +1,16 @@
+mdlSelect = 120, 55, 1226, 746, C, 25, 9, 660, 675, C
+BasicModule = 0, 0, 710, 620, C
+Default_Subs = 15, 78, 936, 788, C
+modSettings = 138, 138, 848, 758, C
+localize = 144, 110, 854, 719, C
+RegisterXP = 230, 230, 902, 827, C
+Manifest = 138, 138, 848, 758, C
+modAutorun = 0, 0, 0, 0, C
+frmAboutPM = 126, 286, 836, 906, C, 148, 122, 858, 742, C
+fileverinfo = 207, 207, 917, 827, C
+modProcess = 161, 161, 871, 781, C
+frmPCreate = 117, 56, 942, 740, C, 261, 142, 849, 618, C
+Folders = 10, 56, 979, 741, C
+frmName = 50, 255, 919, 859, C, 207, 207, 901, 811, C
+imgButton = 69, 69, 763, 673, C
+frmOptions = 0, 0, 846, 527, C, 207, 207, 917, 827, C
